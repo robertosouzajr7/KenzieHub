@@ -1,33 +1,30 @@
-# Getting Started with Create React App
+# KENZIE HUB | GERENCIAMENTO DE STACKS TECNOLOGICAS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é um projeto de estudo, uma aplicação para cadastro e gerenciamento de todas as suas stacks  e linguagens que você domina e possui conhecimento
+[Ver demonstração](https://kenzie-hub-ten-lovat.vercel.app/).
 
-## Available Scripts
+## COMO UTILIZAR
+crie um usuário e senha e pronto. faça login e começe a cadastrar suas stacks.
 
-In the project directory, you can run:
 
-### `yarn start`
+## COMO INICIAR A APLICAÇÃO
+Passo a passo para rodar aplicação em sua máquina.
+### CLONE DO REPOSITORIO `git clone https://github.com/robertosouzajr7/KenzieHub.git`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Executa o aplicativo no modo de desenvolvimento.\
+abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A página será recarregada quando você fizer alterações.\ Você também pode ver erros de lint no console.
 
 ### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Inicia o executor de testes no modo de observação interativo.\ Consulte a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
 
 ### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Cria o aplicativo para produção na pasta `build`.\ Ele agrupa corretamente o React no modo de produção e otimiza a construção para obter o melhor desempenho. A compilação é reduzida e os nomes dos arquivos incluem os hashes.\ Seu aplicativo está pronto para ser implantado!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
 
 ### `yarn eject`
 
